@@ -1,8 +1,8 @@
-downing.io
+dana-fatemeh.github.io
 ================================================================================
 
 Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
-as well as some links to Github. :octocat:
+as well as some links to Github. 
 
 ## Forking Note
 
@@ -17,9 +17,7 @@ Built using:
 [HTML5](https://developers.google.com/web/)  
 [Bootstrap](http://getbootstrap.com/) for CSS  
 [jQuery](https://jquery.com/) for JS  
-[namecheap](https://www.namecheap.com/) for the awesome domain  
 [GitHub Pages](https://pages.github.com/) for hosting  
-[CloudFlare](https://www.cloudflare.com/) for the SSL cert and fancy green lock :lock:  
 [git](https://git-scm.com/) for source control
 
 Based on the
@@ -27,15 +25,15 @@ Based on the
 from [Start Bootstrap](http://startbootstrap.com/).
 The theme is also MIT Licensed.
 
-View it here: [downing.io](https://downing.io/)
+View it here: [dana-fatemeh.github.io](https://dana-fatemeh.github.io/)
 
 Check out some of my other webpages at 
-[github.com/JasonD94/](https://github.com/JasonD94/)
+[github.com/dana-fatemeh/](https://github.com/dana-fatemeh/)
 
 ##### NOTE:
 
 I have a custom domain connected to GitHub, so my GitHub Pages repositories 
 do not follow the usual GITHUB-USERNAME-HERE.github.io/REPOSITORY-NAME-HERE format. 
-Instead they follow a "downing.io/REPOSITORY-NAME-HERE" format. 
+Instead they follow a "dana-fatemeh.github.io/REPOSITORY-NAME-HERE" format. 
 If the domain fails for some reason, you can still access my site by going to 
-[https://jasond94.github.io](https://jasond94.github.io)
+[https://dana-fatemeh.github.io](https://dana-fatemeh.github.io)
