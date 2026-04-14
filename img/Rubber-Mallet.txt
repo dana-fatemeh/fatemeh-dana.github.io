@@ -1,0 +1,6 @@
+@article{adiletta2025rubber,
+  title={Rubber Mallet: A Study of High Frequency Localized Bit Flips and Their Impact on Security},
+  author={Adiletta, Andrew and Weissman, Zane and Dana, Fatemeh Khojasteh and Sunar, Berk and Tajik, Shahin},
+  journal={DRAM Security (DRAMSec)},
+  year={2025}
+}

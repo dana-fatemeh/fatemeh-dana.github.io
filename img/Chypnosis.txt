@@ -1,0 +1,6 @@
+@article{mitard2025chypnosis,
+  title={Chypnosis: Undervolting-based Static Side-channel Attacks},
+  author={Mitard, Kyle and Monfared, Saleh Khalaj and Dana, Fatemeh Khojasteh and Dumitru, Robert and Yarom, Yuval and Tajik, Shahin},
+  journal={IEEE Symposium on Security and Privacy},
+  year={2026}
+}

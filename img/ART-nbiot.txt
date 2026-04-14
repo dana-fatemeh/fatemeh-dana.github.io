@@ -1,0 +1,11 @@
+@article{KHOJASTEHDANA2025110405,
+title = {A reliability framework for NB-IoT devices: Addressing transient faults and silent data corruptions},
+journal = {Computers and Electrical Engineering},
+volume = {124},
+pages = {110405},
+year = {2025},
+issn = {0045-7906},
+doi = {https://doi.org/10.1016/j.compeleceng.2025.110405},
+url = {https://www.sciencedirect.com/science/article/pii/S0045790625003489},
+author = {Fatemeh {Khojasteh Dana} and Seyedeh Fatemeh Anvari and Hamid R. Zarandi}
+}

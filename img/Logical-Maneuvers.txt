@@ -1,0 +1,6 @@
+@article{dana2025logical,
+  title={Logical Maneuvers: Detecting and Mitigating Adversarial Hardware Faults in Space},
+  author={Dana, Fatemeh Khojasteh and Monfared, Saleh Khalaj and Tajik, Shahin},
+  journal={Workshop on the Security of Space and Satellite Systems (SpaceSec)},
+  year={2025}
+}
