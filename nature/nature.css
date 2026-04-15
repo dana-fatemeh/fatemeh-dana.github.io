@@ -1,0 +1,51 @@
+.nature-masthead {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.68) 0%, rgba(255, 255, 255, 0.68) 100%), url("1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+@media (min-width: 992px) {
+  #mainNav .navbar-brand,
+  #mainNav .navbar-brand:hover,
+  #mainNav .navbar-nav .nav-item .nav-link,
+  #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #212529;
+  }
+}
+
+.nature-gallery-section {
+  background-color: #f8f9fa;
+}
+
+.nature-gallery {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.nature-photo {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+.nature-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.nature-photo:hover img,
+.nature-photo:focus img {
+  opacity: 0.86;
+  transform: scale(1.03);
+}
+
+@media (max-width: 575.98px) {
+  .nature-photo img {
+    aspect-ratio: 1 / 1;
+  }
+}
