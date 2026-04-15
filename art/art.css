@@ -38,9 +38,9 @@
 }
 
 .art-photo img {
+  display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
   border-radius: 4px;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
@@ -49,10 +49,4 @@
 .art-photo:focus img {
   opacity: 0.86;
   transform: scale(1.03);
-}
-
-@media (max-width: 575.98px) {
-  .art-photo img {
-    aspect-ratio: 1 / 1;
-  }
 }
